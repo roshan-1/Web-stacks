@@ -1,0 +1,55 @@
+
+	.top{
+		position:absolute;
+		left:0;
+		height: 60px;
+		width: 100%;
+		background-color: #f8f9fa;
+	}
+	.form{
+		position: absolute;
+		top:120px;
+		width:100%;
+		background-color: white;
+	}
+	
+	.reg{
+		text-decoration: none!important;
+		cursor: pointer;
+		float: right;
+		display: block;
+    	position: absolute;
+    	top: 20px;
+    	right: 100px;
+    	background-color: transparent;
+    	color: #000;
+    	font-family: 'Karla', sans-serif;
+    	font-size: 16px;
+	}
+	#c1,#c2,#c3{
+        position: absolute;
+        top: 120px;
+    }
+	.log{
+		text-decoration: none!important;
+		cursor: pointer;
+		float: right;
+		display: block;
+    	position: absolute;
+    	top:20px;
+    	right: 40px; 
+    	background-color: transparent;
+    	color: #000;
+    	font-family: 'Karla', sans-serif;
+    	font-size: 16px;
+	}
+	    .login{
+	    	position: absolute;
+	    	top:140px;
+	    	left: 550px;
+	    	font-size: 6rem!important;
+    		font-family: 'Libre Barcode 128 Text', cursive!important;
+    	}
+    	h3{
+    		text-align: center;
+    	}
